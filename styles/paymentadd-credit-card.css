@@ -1,0 +1,395 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.paymentadd-credit-card-J2J {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ {
+  box-sizing: border-box;
+  padding: 0rem 0.7rem 6.3rem 0.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.467rem 1.6rem 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .status-bar-BkJ {
+  margin: 0rem 0rem 2.2rem 1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .status-bar-BkJ .time-iVL {
+  margin-right: 23.1667rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: -0.028rem;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .status-bar-BkJ .cellular-connection-cKp {
+  margin: 0rem 0.503rem 0.167rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .status-bar-BkJ .wifi-qCa {
+  margin: 0rem 0.503rem 0.17rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .status-bar-BkJ .battery-Ysg {
+  margin-bottom: 0.1333rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .auto-group-xdhp-5sc {
+  margin-right: 0.9328rem;
+  width: 32.7rem;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .navigationbar-5xA .auto-group-xdhp-5sc .licon-deE {
+  margin-right: 28.7rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir {
+  margin: 0rem 2.4rem 2.4rem 2.4rem;
+  width: calc(100% - 4.8rem);
+  height: 20rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .shadow-4zS {
+  width: 27.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 18rem;
+  box-shadow: 0 0.2rem 3rem rgba(0, 0, 0, 0.5), 0 0.2rem 3rem #20a085;
+  background-color: #ffffff;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .bg-AXg {
+  width: 32.7rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .bg-AXg .auto-group-1jle-7C2 {
+  width: 32.7rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .icmaster-dw4 {
+  width: 4.7499rem;
+  height: 2.9246rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi {
+  width: 26.4rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 2.5rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-lh3c-sqQ {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-lh3c-sqQ .card-holder-dZg {
+  margin-bottom: 0.4rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2727272727;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-lh3c-sqQ .devin-shelton-MEn {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-i6e2-siv {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-i6e2-siv .item-4645-2bp {
+  margin-right: 1.2rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.4825;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-i6e2-siv .item-5686-Yq4 {
+  margin-right: 1.1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.4825;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-i6e2-siv .item-897-scS {
+  margin-right: 0.1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.4825;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-i6e2-siv .combined-shape-Hw4 {
+  margin-top: 0.4rem;
+  width: 6.8rem;
+  height: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 {
+  box-sizing: border-box;
+  padding-top: 2.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 .auto-group-n1lz-mrE {
+  margin: 0rem 1.7rem 0.4rem 0rem;
+  width: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 .auto-group-n1lz-mrE .exp-date-VXL {
+  margin-right: 16.9rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2727272727;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 .auto-group-n1lz-mrE .cvv-p3p {
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2727272727;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 .auto-group-5x1l-kCN {
+  margin-right: 1.2rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 .auto-group-5x1l-kCN .mm-yy-tJa {
+  margin-right: 18.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .card-kir .information-Zpi .auto-group-hppe-dV8 .auto-group-5x1l-kCN .combined-shape-pxv {
+  margin-bottom: 0.1rem;
+  width: 2.9rem;
+  height: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi {
+  margin: 0rem 2.4rem 2.4rem 2.4rem;
+  width: calc(100% - 4.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi .label-6Qe {
+  margin-bottom: 0.4rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi .auto-group-dxja-34z {
+  box-sizing: border-box;
+  padding: 1.1rem 1.2rem 1.2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #12b2b3;
+  box-shadow: 0 0.5rem 1rem rgba(147, 147, 170, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi .auto-group-dxja-34z .auto-group-pwkg-mmg {
+  margin: 0rem 16.7rem 0.1rem 0rem;
+  width: 10.8rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi .auto-group-dxja-34z .auto-group-pwkg-mmg .detail-6ox {
+  width: 10.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi .auto-group-dxja-34z .auto-group-pwkg-mmg .pointer-1g2 {
+  width: 0.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 0.2rem;
+  background-color: #1e1f20;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .input-ZQi .auto-group-dxja-34z .fill-9GS {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-color: #f0f0f0;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .btncontinue-DXC {
+  margin: 0 2.4rem;
+  box-sizing: border-box;
+  padding: 1.3rem 12.6rem 1.3rem 13.5rem;
+  width: calc(100% - 4.8rem);
+  height: 5rem;
+  cursor: pointer;
+  background: linear-gradient(45deg, #30c084 0%, #56e0e0 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .btncontinue-DXC .icon-jVY {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .btncontinue-DXC .icon-jVY .label-Vjc {
+  margin-right: 0.8rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .auto-group-4zxr-1hQ .btncontinue-DXC .icon-jVY .icons-24pt-icnext-3FL {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadd-credit-card-J2J .keyboard-XgJ {
+  width: 39rem;
+  height: 29.1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/keyboard.png');
+  flex-shrink: 0;
+}

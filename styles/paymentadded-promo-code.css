@@ -1,0 +1,547 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.paymentadded-promo-code-FYJ {
+  box-sizing: border-box;
+  padding: 0rem 0.7rem 0rem 0.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz {
+  margin: 0rem 0rem 1.6rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.467rem 1.6rem 2.4rem;
+  width: 37.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .status-bar-3yx {
+  margin: 0rem 0rem 2.2rem 1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .status-bar-3yx .time-bEn {
+  margin-right: 23.1667rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: -0.028rem;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .status-bar-3yx .cellular-connection-V5G {
+  margin: 0rem 0.503rem 0.167rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .status-bar-3yx .wifi-o5x {
+  margin: 0rem 0.503rem 0.17rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .status-bar-3yx .battery-8P8 {
+  margin-bottom: 0.1333rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .auto-group-gujw-53U {
+  margin-right: 0.9328rem;
+  width: 32.7rem;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .navigationbar-ZYz .auto-group-gujw-53U .licon-cp6 {
+  margin-right: 28.7rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 {
+  box-sizing: border-box;
+  padding: 0rem 1.724rem 3.6rem 2.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .title-djC {
+  margin-bottom: 4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .title-djC .step-3-of-3-Bki {
+  margin-bottom: 1.6rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .title-djC .confirm-payment-WHC {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL {
+  width: 100%;
+  height: 33.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .bg-myp {
+  width: 32.7rem;
+  height: 33.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv {
+  width: 29.264rem;
+  height: 11.1537rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 18.3rem;
+  display: flex;
+  align-items: center;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-ym4a-F8J {
+  margin-right: 3.16rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-ym4a-F8J .credit-card-PkJ {
+  margin: 0rem 0.024rem 1.47rem 0rem;
+  width: 7.488rem;
+  height: 7.4837rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-ym4a-F8J .credit-card-X5p {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-nuga-45k {
+  margin-right: 3.328rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-nuga-45k .bkash-cNA {
+  margin-bottom: 1.47rem;
+  width: 7.488rem;
+  height: 7.4837rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-nuga-45k .paypal-kzA {
+  margin-left: 0.104rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.6923076923;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-rfqr-gcv {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-rfqr-gcv .apple-pay-Srz {
+  margin-bottom: 1.47rem;
+  width: 7.488rem;
+  height: 7.4837rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .payment-method-vLv .auto-group-rfqr-gcv .apple-pay-C5U {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.6923076923;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv {
+  width: 32.552rem;
+  height: 10.6517rem;
+  position: absolute;
+  left: 0.824rem;
+  top: 2.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS {
+  box-sizing: border-box;
+  padding: 0rem 1.168rem 2.953rem 1.168rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-31-zGE {
+  margin: 0rem 1.408rem 0.6rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-31-zGE .icvoicecall-vfg {
+  margin-right: 1.248rem;
+  width: 2.496rem;
+  height: 2.4946rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-31-zGE .service-price-UBQ {
+  margin: 0.105rem 2.964rem 0rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-31-zGE .item-45-zQe {
+  margin: 0.105rem 0.8rem 0rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-decoration-line: line-through;
+  color: #9393aa;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-31-zGE .visit-hpr {
+  margin-top: 0.1054rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-30-dTc {
+  margin: 0rem 1.2rem 1.395rem 6.708rem;
+  width: calc(100% - 7.908rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-30-dTc .firstcare-saved-1-wz6 {
+  margin-right: 0.544rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2307692308;
+  color: #1da1f2;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-30-dTc .firstcare-saved-1-wz6 .firstcare-saved-1-wz6-sub-0 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2307692308;
+  color: #30c084;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-30-dTc .firstcare-saved-1-wz6 .firstcare-saved-1-wz6-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2307692308;
+  color: #1da1f2;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-30-dTc .firstcare-saved-1-wz6 .firstcare-saved-1-wz6-sub-2 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .group-30-dTc .tagpromocode-dP4 {
+  margin-bottom: 0.0424rem;
+  width: 1.664rem;
+  height: 1.6631rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .auto-group-eg9k-FpS .satisfaction-gu-ZXc {
+  margin-right: 1.696rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2727272727;
+  color: #9393aa;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .auto-group-mtfg-JB8 .payment-2mL .price-8Uv .line-hNv {
+  width: 100%;
+  height: 0.1039rem;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .btndone-Qo8 {
+  margin: 0rem 2.4rem 7.3rem 2.6rem;
+  box-sizing: border-box;
+  padding: 1.3rem 7.5rem 1.3rem 6.8rem;
+  width: calc(100% - 5rem);
+  height: 5rem;
+  cursor: pointer;
+  background: linear-gradient(45deg, #30c084 0%, #56e0e0 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .btndone-Qo8 .icon-X74 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .btndone-Qo8 .icon-X74 .icons-24pt-icsecurepay-gke {
+  margin-right: 0.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .btndone-Qo8 .icon-X74 .label-2Ji {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r {
+  width: 100%;
+  height: 15.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .bg-UAi {
+  box-sizing: border-box;
+  padding-top: 6.2rem;
+  width: 37.5rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  backdrop-filter: blur(0.85rem);
+  background-color: rgba(255, 255, 255, 0.6800000072);
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .bg-UAi .home-indicatorblack-QKG {
+  box-sizing: border-box;
+  padding: 2.1rem 12rem 0.8rem 12rem;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.0001);
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .bg-UAi .home-indicatorblack-QKG .home-indicator-Lii {
+  width: 100%;
+  height: 0.5rem;
+  background-color: rgba(30, 31, 32, 0.0001);
+  border-radius: 10rem;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr {
+  width: 37.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 6.9rem;
+  background-color: #ffffff;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-Ahk {
+  box-sizing: border-box;
+  padding: 0.8rem 1.7rem 0.8rem 1.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-Ahk .auto-group-k8nj-tdk {
+  margin-bottom: 3.1rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-1yG {
+  box-sizing: border-box;
+  padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-1yG .icons-24pt-icsearchnormal-93t {
+  margin-bottom: 3.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-FMp {
+  box-sizing: border-box;
+  padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-FMp .icons-24pt-ichealthnormal-ZdQ {
+  margin-bottom: 3.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-tfg {
+  box-sizing: border-box;
+  padding: 1.8rem 2.9rem 1.8rem 3rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-tfg .icons-24pt-icrecordnormal-CwG {
+  margin-bottom: 3.1rem;
+  width: 1.6rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-vsG {
+  box-sizing: border-box;
+  padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .tab-vsG .icons-24pt-icaccountnormal-f4A {
+  margin-bottom: 3.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .home-indicatorblack-Pkr {
+  box-sizing: border-box;
+  padding: 2.1rem 12rem 0.8rem 12rem;
+  width: 37.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.3rem;
+  background-color: rgba(255, 255, 255, 0.0001);
+}
+.paymentadded-promo-code-FYJ .content-wbU .fix-button-rFp .auto-group-gwbp-86r .icon-SWr .home-indicatorblack-Pkr .home-indicator-Jsp {
+  width: 100%;
+  height: 0.5rem;
+  background-color: rgba(30, 31, 32, 0.0001);
+  border-radius: 10rem;
+}

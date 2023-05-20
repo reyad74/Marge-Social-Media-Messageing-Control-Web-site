@@ -1,0 +1,699 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.messaging-UMk {
+  width: 100%;
+  height: 84.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fafafa;
+}
+.messaging-UMk .content-cTx {
+  width: 37.5rem;
+  height: 80.8rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 6.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE {
+  margin: 0rem 1.7rem 67.4rem 4.8rem;
+  width: calc(100% - 6.5rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE .hi-G2i {
+  margin: 0.458rem 14.976rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE .hi-G2i .rounded-CSA {
+  margin-right: 1.664rem;
+  width: 4.16rem;
+  height: 4.1576rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE .hi-G2i .hi-devin-96W {
+  margin-top: 0.5064rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.1764705882;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE .notification-UPg {
+  width: 4.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE .notification-UPg .icbase-S5c {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .content-cTx .auto-group-6lp6-wWE .notification-UPg .counter-NV4 {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #30c084;
+  border-radius: 10rem;
+}
+.messaging-UMk .content-cTx .icon-qNe {
+  width: 100%;
+  height: 8.7rem;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-BSW {
+  box-sizing: border-box;
+  padding: 0.8rem 1.7rem 0.8rem 1.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-BSW .auto-group-ctgs-6pN {
+  margin-bottom: 3.1rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-dJW {
+  box-sizing: border-box;
+  padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-dJW .icons-24pt-icsearchnormal-9Xk {
+  margin-bottom: 3.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-gGn {
+  box-sizing: border-box;
+  padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-gGn .icons-24pt-ichealthnormal-buY {
+  margin-bottom: 3.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-8ea {
+  box-sizing: border-box;
+  padding: 1.8rem 2.9rem 1.8rem 3rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-8ea .icons-24pt-icrecordnormal-f8i {
+  margin-bottom: 3.1rem;
+  width: 1.6rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-P4i {
+  box-sizing: border-box;
+  padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+  width: 7.5rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.messaging-UMk .content-cTx .icon-qNe .tab-P4i .icons-24pt-icaccountnormal-uok {
+  margin-bottom: 3.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .content-cTx .icon-qNe .home-indicatorblack-ELE {
+  box-sizing: border-box;
+  padding: 2.1rem 12rem 0.8rem 12rem;
+  width: 37.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.3rem;
+  background-color: rgba(255, 255, 255, 0.0001);
+}
+.messaging-UMk .content-cTx .icon-qNe .home-indicatorblack-ELE .home-indicator-M9x {
+  width: 100%;
+  height: 0.5rem;
+  background-color: rgba(30, 31, 32, 0.0001);
+  border-radius: 10rem;
+}
+.messaging-UMk .group-22-fRY {
+  width: 39rem;
+  height: 9.4999rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+}
+.messaging-UMk .group-22-fRY .card-QP8 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.messaging-UMk .group-22-fRY .card-QP8 .bg-AdC {
+  width: 39rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.messaging-UMk .group-22-fRY .card-QP8 .bottom-line-iPp {
+  opacity: 0;
+  width: 39rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  background-color: rgba(250, 250, 250, 0);
+}
+.messaging-UMk .group-22-fRY .card-QP8 .rounded-Sai {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-22-fRY .card-QP8 .group-21-NUN {
+  width: 19.3003rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 4.9997rem;
+  top: 2.2rem;
+}
+.messaging-UMk .group-22-fRY .card-QP8 .group-21-NUN .specialies-uDQ {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 6.2003rem;
+  top: 2.9rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-22-fRY .card-QP8 .group-21-NUN .doctor-name-CyC {
+  width: 6.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.3003rem;
+  top: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-22-fRY .card-QP8 .group-21-NUN .rounded-KY2 {
+  width: 4.6603rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-23-s3k {
+  width: 39rem;
+  height: 9.4999rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 24.8rem;
+}
+.messaging-UMk .group-23-s3k .card-1fk {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.messaging-UMk .group-23-s3k .card-1fk .bg-yca {
+  width: 39rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.messaging-UMk .group-23-s3k .card-1fk .bottom-line-XPC {
+  opacity: 0;
+  width: 39rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  background-color: rgba(250, 250, 250, 0);
+}
+.messaging-UMk .group-23-s3k .card-1fk .rounded-sCA {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-23-s3k .card-1fk .group-21-D18 {
+  width: 19.3003rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 4.9997rem;
+  top: 2.2rem;
+}
+.messaging-UMk .group-23-s3k .card-1fk .group-21-D18 .specialies-9fU {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 6.2003rem;
+  top: 2.9rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-23-s3k .card-1fk .group-21-D18 .doctor-name-s5g {
+  width: 5.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.3003rem;
+  top: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-23-s3k .card-1fk .group-21-D18 .rounded-Bs4 {
+  width: 4.6603rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-24-jta {
+  width: 39rem;
+  height: 9.4999rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 35rem;
+}
+.messaging-UMk .group-24-jta .card-gop {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.messaging-UMk .group-24-jta .card-gop .bg-EqL {
+  width: 39rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.messaging-UMk .group-24-jta .card-gop .bottom-line-auC {
+  opacity: 0;
+  width: 39rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  background-color: rgba(250, 250, 250, 0);
+}
+.messaging-UMk .group-24-jta .card-gop .rounded-viA {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-24-jta .card-gop .group-21-4ZU {
+  width: 19.3003rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 4.9997rem;
+  top: 2.2rem;
+}
+.messaging-UMk .group-24-jta .card-gop .group-21-4ZU .specialies-c5C {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 6.2003rem;
+  top: 2.9rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-24-jta .card-gop .group-21-4ZU .doctor-name-ie2 {
+  width: 5.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.3003rem;
+  top: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-24-jta .card-gop .group-21-4ZU .rounded-EsG {
+  width: 4.6603rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-25-bC2 {
+  width: 39rem;
+  height: 9.4999rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 45.2rem;
+}
+.messaging-UMk .group-25-bC2 .card-9DY {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.messaging-UMk .group-25-bC2 .card-9DY .bg-JcE {
+  width: 39rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.messaging-UMk .group-25-bC2 .card-9DY .bottom-line-deW {
+  opacity: 0;
+  width: 39rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  background-color: rgba(250, 250, 250, 0);
+}
+.messaging-UMk .group-25-bC2 .card-9DY .rounded-BAE {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-25-bC2 .card-9DY .group-21-WTQ {
+  width: 19.3003rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 4.9997rem;
+  top: 2.2rem;
+}
+.messaging-UMk .group-25-bC2 .card-9DY .group-21-WTQ .specialies-FQz {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 6.2003rem;
+  top: 2.9rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-25-bC2 .card-9DY .group-21-WTQ .doctor-name-mPL {
+  width: 5.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.3003rem;
+  top: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-25-bC2 .card-9DY .group-21-WTQ .rounded-h26 {
+  width: 4.6603rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-26-SVU {
+  width: 39rem;
+  height: 9.4999rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 65.6rem;
+}
+.messaging-UMk .group-26-SVU .card-zWz {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.messaging-UMk .group-26-SVU .card-zWz .bg-9ug {
+  width: 39rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.messaging-UMk .group-26-SVU .card-zWz .bottom-line-75p {
+  opacity: 0;
+  width: 39rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  background-color: rgba(250, 250, 250, 0);
+}
+.messaging-UMk .group-26-SVU .card-zWz .rounded-FSv {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-26-SVU .card-zWz .group-21-PZ8 {
+  width: 19.3003rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 4.9997rem;
+  top: 2.2rem;
+}
+.messaging-UMk .group-26-SVU .card-zWz .group-21-PZ8 .specialies-w4r {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 6.2003rem;
+  top: 2.9rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-26-SVU .card-zWz .group-21-PZ8 .doctor-name-Epe {
+  width: 7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.3003rem;
+  top: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-26-SVU .card-zWz .group-21-PZ8 .rounded-xEr {
+  width: 4.6603rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-27-hy8 {
+  width: 39rem;
+  height: 9.4999rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 55.4rem;
+}
+.messaging-UMk .group-27-hy8 .card-Svi {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.messaging-UMk .group-27-hy8 .card-Svi .bg-QsY {
+  width: 39rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.messaging-UMk .group-27-hy8 .card-Svi .bottom-line-ZkS {
+  opacity: 0;
+  width: 39rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  background-color: rgba(250, 250, 250, 0);
+}
+.messaging-UMk .group-27-hy8 .card-Svi .rounded-uZQ {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-UMk .group-27-hy8 .card-Svi .group-21-SpE {
+  width: 19.3003rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 4.9997rem;
+  top: 2.2rem;
+}
+.messaging-UMk .group-27-hy8 .card-Svi .group-21-SpE .specialies-ndC {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 6.2003rem;
+  top: 2.9rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-27-hy8 .card-Svi .group-21-SpE .doctor-name-WJJ {
+  width: 6.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.3003rem;
+  top: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-UMk .group-27-hy8 .card-Svi .group-21-SpE .rounded-RgA {
+  width: 4.6603rem;
+  height: 4.6576rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,494 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.paymentchange-card-CBp {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+
+  .navigationbar-Xzn {
+    margin: 0rem 0.7rem 4rem 0.8rem;
+    box-sizing: border-box;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 1.2rem 1.467rem 1.6rem 2.4rem;
+    width: calc(100% - 1.5rem);
+    align-items: center;
+    display: flex;
+    background-color: #fafafa;
+
+    .status-bar-dY2 {
+      margin: 0rem 0rem 2.2rem 1rem;
+      display: flex;
+      align-items: flex-end;
+      flex-shrink: 0;
+
+      .time-AH4 {
+        font-weight: 700;
+        white-space: nowrap;
+        line-height: 1.2857142857;
+        letter-spacing: -0.028rem;
+        color: #1e1f20;
+        font-family: Mulish, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-right: 23.1667rem;
+        text-align: center;
+        font-size: 1.4rem;
+      }
+      .cellular-connection-rva {
+        flex-shrink: 0;
+        margin: 0rem 0.503rem 0.167rem 0rem;
+        width: 1.7rem;
+        height: 1.0667rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .wifi-P9p {
+        width: 1.5272rem;
+        height: 1.0966rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 0.503rem 0.17rem 0rem;
+      }
+      .battery-Jna {
+        margin-bottom: 0.1333rem;
+        width: 2.4328rem;
+        height: 1.1333rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .auto-group-dexn-e5k {
+      margin-right: 0.9328rem;
+      width: calc(100% - 0.9328rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .licon-NXY {
+        margin-right: 24.7rem;
+        width: 4rem;
+        height: 4rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .ricon-WNr {
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 4rem;
+        height: 4rem;
+        object-fit: contain;
+      }
+    }
+  }
+  .auto-group-3gqn-dyG {
+    flex-shrink: 0;
+    width: 100%;
+    height: 72.1rem;
+    position: relative;
+
+    .title-nrA {
+      top: 0;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      width: 39rem;
+      height: 69.6rem;
+      position: absolute;
+      left: 0;
+
+      .auto-group-f9dg-YKY {
+        box-sizing: border-box;
+        padding: 0rem 2.392rem 12.681rem 2.392rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .credit-card-4Ht {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 20.908rem 3.188rem 0rem;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 1.1666666667;
+          color: #1e1f20;
+          font-family: Mulish, 'Source Sans Pro';
+        }
+        .item-B7c {
+          margin-bottom: 2.4946rem;
+          display: flex;
+          align-items: center;
+          box-shadow: 0 0.5rem 1rem rgba(0, 64, 128, 0.0399999991);
+          background-color: #ffffff;
+          box-sizing: border-box;
+          padding: 2.495rem 5.704rem 2.367rem 1.664rem;
+          width: 100%;
+          border-radius: 1.2rem;
+          flex-shrink: 0;
+
+          .icradioactive-u3c {
+            margin: 0rem 2.496rem 0.128rem 0rem;
+            width: 2.496rem;
+            height: 2.4946rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .icmaster-pRU {
+            margin: 0rem 1.664rem 0.128rem 0rem;
+            width: 4.992rem;
+            height: 4.9892rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .auto-group-kef8-9yY {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-top: 0.8172rem;
+            display: flex;
+
+            .master-card-JrS {
+              font-size: 1.5rem;
+              font-weight: 700;
+              line-height: 1.2;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.9rem;
+            }
+            .xxxx-xxxx-xxxx--r7G {
+              font-size: 1.3rem;
+              font-weight: 400;
+              line-height: 1.2307692308;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+        }
+        .item-8Kg {
+          height: 9.9783rem;
+          display: flex;
+          box-shadow: 0 0.5rem 1rem rgba(0, 64, 128, 0.0399999991);
+          margin-bottom: 2.4946rem;
+          width: 100%;
+          align-items: center;
+          background-color: #ffffff;
+          border-radius: 1.2rem;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 2.495rem 5.704rem 2.495rem 1.664rem;
+
+          .icradionormal-qjt {
+            margin-right: 2.496rem;
+            width: 2.496rem;
+            height: 2.4946rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .icvisa-Njp {
+            margin-right: 1.664rem;
+            width: 4.992rem;
+            height: 4.9892rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .auto-group-1ig6-ujk {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin: 0.344rem 0rem 0.345rem 0rem;
+            height: calc(100% - 0.6892rem);
+            display: flex;
+
+            .visa-master-SDt {
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.9rem;
+              font-size: 1.5rem;
+              font-weight: 700;
+              line-height: 1.2;
+            }
+            .xxxx-xxxx-xxxx--ZpJ {
+              line-height: 1.2307692308;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.3rem;
+              font-weight: 400;
+            }
+          }
+        }
+        .item-SdC {
+          padding: 2.366rem 5.704rem 2.495rem 1.664rem;
+          box-shadow: 0 0.5rem 1rem rgba(0, 64, 128, 0.0399999991);
+          flex-shrink: 0;
+          margin-bottom: 2.4946rem;
+          box-sizing: border-box;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          background-color: #ffffff;
+          border-radius: 1.2rem;
+
+          .icradionormal-NFx {
+            height: 2.4946rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0.129rem 2.496rem 0rem 0rem;
+            width: 2.496rem;
+          }
+          .icmaster-6Sr {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0.129rem 1.664rem 0rem 0rem;
+            width: 4.992rem;
+            height: 4.9892rem;
+          }
+          .auto-group-wohy-Rk2 {
+            margin-bottom: 0.8177rem;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .master-card-asp {
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.9rem;
+              font-size: 1.5rem;
+              font-weight: 700;
+              line-height: 1.2;
+            }
+            .xxxx-xxxx-xxxx--7sk {
+              flex-shrink: 0;
+              font-size: 1.3rem;
+              font-weight: 400;
+              line-height: 1.2307692308;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+        }
+        .item-bY2 {
+          display: flex;
+          align-items: center;
+          background-color: #ffffff;
+          box-sizing: border-box;
+          width: 100%;
+          border-radius: 1.2rem;
+          flex-shrink: 0;
+          padding: 1.893rem 5.704rem 2.495rem 1.664rem;
+          box-shadow: 0 0.5rem 1rem rgba(0, 64, 128, 0.0399999991);
+
+          .icradionormal-Kyp {
+            margin: 0.601rem 2.496rem 0rem 0rem;
+            width: 2.496rem;
+            height: 2.4946rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .icamex-FsU {
+            width: 4.992rem;
+            height: 4.9892rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0.601rem 1.664rem 0rem 0rem;
+          }
+          .auto-group-vfps-ncW {
+            margin-bottom: 1.2906rem;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .american-express-YLn {
+              font-size: 1.5rem;
+              font-weight: 700;
+              line-height: 1.2;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.9rem;
+            }
+            .xxxx-xxxx-xxxx--gC6 {
+              font-size: 1.3rem;
+              font-weight: 400;
+              line-height: 1.2307692308;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+        }
+      }
+      .home-indicatorblack-NKp {
+        box-sizing: border-box;
+        padding: 2.2rem 12.8rem 0.834rem 12.7rem;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.0001);
+        flex-shrink: 0;
+
+        .home-indicator-JUN {
+          width: 100%;
+          height: 0.5rem;
+          background-color: rgba(30, 31, 32, 0.0001);
+          border-radius: 10rem;
+        }
+      }
+    }
+    .icon-pxW {
+      width: 37.5rem;
+      height: 8.7rem;
+      position: absolute;
+      left: 0.8rem;
+      top: 63.4rem;
+      background-color: #ffffff;
+
+      .tab-MhY {
+        left: 0;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 0.8rem 1.7rem 0.8rem 1.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+        position: absolute;
+
+        .auto-group-wmjv-svn {
+          margin-bottom: 3.1rem;
+          width: 4rem;
+          height: 4rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .tab-Qfp {
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+        position: absolute;
+        left: 7.5rem;
+        top: 0;
+
+        .icons-24pt-icsearchnormal-XVY {
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          margin-bottom: 3.1rem;
+        }
+      }
+      .tab-TPC {
+        left: 15rem;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+        position: absolute;
+
+        .icons-24pt-ichealthnormal-Nm4 {
+          margin-bottom: 3.1rem;
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .tab-tjQ {
+        position: absolute;
+        left: 22.5rem;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.9rem 1.8rem 3rem;
+        width: 7.5rem;
+        height: 8.7rem;
+
+        .icons-24pt-icrecordnormal-cfQ {
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          margin-bottom: 3.1rem;
+          width: 1.6rem;
+        }
+      }
+      .tab-M7C {
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+        position: absolute;
+        left: 30rem;
+        top: 0;
+
+        .icons-24pt-icaccountnormal-Tvv {
+          margin-bottom: 3.1rem;
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .home-indicatorblack-Ppa {
+        height: 3.4rem;
+        position: absolute;
+        left: 0;
+        top: 5.3rem;
+        background-color: rgba(255, 255, 255, 0.0001);
+        box-sizing: border-box;
+        padding: 2.1rem 12rem 0.8rem 12rem;
+        width: 37.5rem;
+
+        .home-indicator-u2E {
+          width: 100%;
+          height: 0.5rem;
+          background-color: rgba(30, 31, 32, 0.0001);
+          border-radius: 10rem;
+        }
+      }
+    }
+  }
+}

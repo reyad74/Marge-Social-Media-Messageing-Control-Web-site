@@ -1,0 +1,294 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.verify-phone-number-m6n {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+.verify-phone-number-m6n .navigationbar-VoU {
+  margin-bottom: 4rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.467rem 1.6rem 2.4rem;
+  width: 37.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .status-bar-o3U {
+  margin: 0rem 0rem 2.2rem 1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .status-bar-o3U .time-jSv {
+  margin-right: 23.1667rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: -0.028rem;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .status-bar-o3U .cellular-connection-2gv {
+  margin: 0rem 0.503rem 0.167rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .status-bar-o3U .wifi-jLS {
+  margin: 0rem 0.503rem 0.17rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .status-bar-o3U .battery-rfx {
+  margin-bottom: 0.1333rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .auto-group-huft-zXG {
+  margin-right: 0.9328rem;
+  width: 32.7rem;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .navigationbar-VoU .auto-group-huft-zXG .licon-vvi {
+  margin-right: 28.7rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.verify-phone-number-m6n .content-Fi6 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY {
+  box-sizing: border-box;
+  padding: 0rem 2.288rem 5.509rem 2.496rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .verification-wL2 {
+  margin: 0rem 21.116rem 0.694rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .please-check-you-mes-qRQ {
+  margin: 0rem 1.716rem 5.994rem 0rem;
+  max-width: 32.5rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 {
+  margin: 0rem 0rem 3.492rem 2.808rem;
+  width: calc(100% - 2.808rem);
+  height: 5.8207rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .auto-group-fxmp-3nN {
+  margin-right: 1.04rem;
+  box-sizing: border-box;
+  padding: 0.728rem 1.496rem 1.093rem 1.496rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.824rem;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-tqc.png');
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .auto-group-fxmp-3nN .item-0-ZVp {
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .auto-group-fxmp-3nN .item-7-oux {
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .auto-group-fxmp-3nN .item-6-Yce {
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .auto-group-fxmp-3nN .item-9-tgW {
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .auto-group-fxmp-3nN .item-0-SCE {
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .input-code-Xp2 .icright-N5t {
+  margin-bottom: 0.2079rem;
+  width: 2.08rem;
+  height: 2.0788rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .didnnt-get-a-code-Yea {
+  margin: 0rem 0.748rem 3.247rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .didnnt-get-a-code-Yea .didnnt-get-a-code-Yea-sub-0 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .didnnt-get-a-code-Yea .didnnt-get-a-code-Yea-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #30c084;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .btnnext-z9C {
+  margin-right: 0.208rem;
+  box-sizing: border-box;
+  padding: 1.4rem 12.908rem 1.397rem 13.7rem;
+  width: 34.008rem;
+  height: 5.197rem;
+  cursor: pointer;
+  background: linear-gradient(45deg, #30c084 0%, #56e0e0 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .btnnext-z9C .icon-J9t {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .btnnext-z9C .icon-J9t .label-rhC {
+  margin-right: 0.8rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-6y9c-coY .btnnext-z9C .icon-J9t .icons-24pt-icnext-nqk {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-udsc-FzE {
+  box-sizing: border-box;
+  padding-top: 26.7128rem;
+  width: 100%;
+  height: 30.2468rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/keyboard-bg.png');
+  flex-shrink: 0;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-udsc-FzE .home-indicatorblack-c46 {
+  box-sizing: border-box;
+  padding: 2.2rem 12.8rem 0.834rem 12.7rem;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.0001);
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-udsc-FzE .home-indicatorblack-c46 .home-indicator-Xgr {
+  width: 100%;
+  height: 0.5rem;
+  background-color: rgba(30, 31, 32, 0.0001);
+  border-radius: 10rem;
+}
+.verify-phone-number-m6n .content-Fi6 .auto-group-udsc-FzE .auto-group-udsc-FzE-bg {
+  width: 39rem;
+  height: 30.2468rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:b76f1d57372a6ee88f422b6b7cf8d0a85c7c8143');
+}

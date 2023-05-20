@@ -1,0 +1,647 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.home-dashboard-5V8 {
+  box-sizing: border-box;
+  padding: 8.7rem 0.8rem 0rem 0.7rem;
+  width: 100%;
+  height: 110.7rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #fafafa;
+
+  .content-oAE {
+    height: 104.1rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    .auto-group-aqrn-Lvr {
+      padding: 0rem 0.992rem 4.828rem 2.496rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-sizing: border-box;
+
+      .auto-group-7ndc-GZc {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 0.808rem 7.3rem 0rem;
+        width: calc(100% - 0.808rem);
+        height: 4.7rem;
+        display: flex;
+
+        .hi-zVc {
+          height: calc(100% - 0.5424rem);
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0.3rem 17.58rem 0.242rem 0rem;
+
+          .rounded-862 {
+            width: 4.16rem;
+            height: 4.1576rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 1.664rem;
+          }
+          .hi-devin-FgS {
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-top: 0.0424rem;
+            font-size: 1.7rem;
+            font-weight: 700;
+            line-height: 1.1764705882;
+            color: #1e1f20;
+          }
+        }
+        .notification-Nm4 {
+          flex-shrink: 0;
+          width: 4.7rem;
+          height: 100%;
+          position: relative;
+
+          .icbase-8ES {
+            position: absolute;
+            left: 0;
+            top: 0.7rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 4rem;
+            height: 4rem;
+          }
+          .counter-fVG {
+            height: 1.6rem;
+            left: 3.1rem;
+            text-align: center;
+            font-family: Mulish, 'Source Sans Pro';
+            position: absolute;
+            top: 0;
+            display: flex;
+            width: 1.6rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            justify-content: center;
+            border-radius: 10rem;
+            line-height: 1.255;
+            color: #ffffff;
+            white-space: nowrap;
+            align-items: center;
+            background-color: #30c084;
+          }
+        }
+      }
+      .tasks-for-today-L5c {
+        font-family: Mulish, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 2.3rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.1666666667;
+        color: #1e1f20;
+      }
+      .feature-s5Y {
+        margin: 0rem 0rem 2.985rem 0.004rem;
+        width: calc(100% - 0.004rem);
+        height: 16.2148rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .post-a-health-question-C7p {
+          box-shadow: 0 0.5rem 1rem rgba(0, 64, 128, 0.0399999991);
+          background-color: #ffffff;
+          flex-shrink: 0;
+          margin-right: 1.664rem;
+          box-sizing: border-box;
+          padding: 4.15rem 4.56rem 4.665rem 4.56rem;
+          width: 16.12rem;
+          border-radius: 1.6rem;
+          height: 100%;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+
+          .vector-u2E {
+            width: 4.1667rem;
+            height: 4.1667rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 0rem 1.433rem 0.055rem;
+          }
+          .ask-a-free-health-qu-qAn {
+            line-height: 1.3846153846;
+            color: #1e1f20;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.3rem;
+            font-weight: 400;
+          }
+        }
+        .next-consults-ikN {
+          display: flex;
+          background-color: #ffffff;
+          box-sizing: border-box;
+          width: 16.224rem;
+          height: 100%;
+          align-items: center;
+          flex-shrink: 0;
+          padding: 4.15rem 5.312rem 4.665rem 5.312rem;
+          flex-direction: column;
+          box-shadow: 0 0.5rem 1rem rgba(0, 64, 128, 0.0399999991);
+          border-radius: 1.6rem;
+
+          .vector-r5t {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 0.026rem 1.433rem 0rem;
+            width: 3.9583rem;
+            height: 4.1667rem;
+          }
+          .next-consults-for-yo-B8A {
+            color: #1e1f20;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.3rem;
+            font-weight: 400;
+            line-height: 1.3846153846;
+          }
+        }
+      }
+      .tasks-for-today-TrN {
+        margin: 0rem 0rem 1.9rem 0.404rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.1666666667;
+        color: #1e1f20;
+        font-family: Mulish, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .feature-nte {
+        margin: 0rem 0.808rem 0rem 0.404rem;
+        width: calc(100% - 1.212rem);
+        align-items: flex-end;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-nuhu-8Bp {
+          flex-shrink: 0;
+          margin: 0rem 0.1rem 1.599rem 0rem;
+          width: 32.7rem;
+          height: 15.3912rem;
+          position: relative;
+
+          .my-question-rNi {
+            cursor: pointer;
+            box-sizing: border-box;
+            height: 15.1914rem;
+            line-height: 1.3846152672;
+            background-color: #ffffff;
+            font-weight: 400;
+            color: #1e1f20;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            box-shadow: 0 0.4808rem 0.9615rem rgba(0, 64, 128, 0.0399999991);
+            padding: 10.955rem 4.65rem 2.436rem 4.65rem;
+            text-align: center;
+            left: 17.2rem;
+            top: 0.1999rem;
+            font-size: 1.25rem;
+            border-radius: 1.5385rem;
+            width: 15.5rem;
+            position: absolute;
+          }
+          .consults-manage-GSS {
+            padding-right: 0.0004rem;
+            position: absolute;
+            left: 0;
+            display: flex;
+            align-items: center;
+            box-sizing: border-box;
+            width: 27.375rem;
+            height: 15.3912rem;
+            top: 0;
+
+            .auto-group-am1g-nQn {
+              flex-direction: column;
+              flex-shrink: 0;
+              margin-right: 7.0042rem;
+              padding: 3.1rem 4.8rem 2.629rem 5rem;
+              width: 15.6rem;
+              display: flex;
+              background-color: #ffffff;
+              border-radius: 1.5385rem;
+              box-sizing: border-box;
+              height: 100%;
+              align-items: center;
+              box-shadow: 0 0.4808rem 0.9615rem rgba(0, 64, 128, 0.0399999991);
+
+              .auto-group-1wv4-uEW {
+                margin: 0rem 0rem 2.734rem 0.488rem;
+                width: 5.3115rem;
+                height: 5.1281rem;
+                position: relative;
+                flex-shrink: 0;
+
+                .vector-dgJ {
+                  top: 1.1317rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  width: 4.0064rem;
+                  height: 3.9964rem;
+                  position: absolute;
+                  left: 0;
+                }
+                .counter-N86 {
+                  line-height: 1.255;
+                  width: 2.1rem;
+                  position: absolute;
+                  font-weight: 600;
+                  font-size: 1.144rem;
+                  font-family: Mulish, 'Source Sans Pro';
+                  border-radius: 13.125rem;
+                  left: 3.2115rem;
+                  align-items: center;
+                  justify-content: center;
+                  background-color: #30c084;
+                  top: 0;
+                  display: flex;
+                  white-space: nowrap;
+                  height: 2.1rem;
+                  color: #ffffff;
+                }
+              }
+              .consults-history-Rs4 {
+                font-weight: 400;
+                flex-shrink: 0;
+                margin-right: 0.2rem;
+                text-align: center;
+                font-size: 1.25rem;
+                white-space: nowrap;
+                line-height: 1.3846152672;
+                color: #1e1f20;
+                font-family: Mulish, 'Source Sans Pro';
+              }
+            }
+            .logos-whatsapp-icon-7E6 {
+              margin-bottom: 2.9052rem;
+              width: 4.7704rem;
+              height: 4.7918rem;
+              position: relative;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+          }
+          .counter-diE {
+            font-weight: 600;
+            line-height: 1.255;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            font-size: 1.144rem;
+            border-radius: 13.125rem;
+            height: 2.1rem;
+            left: 26.2rem;
+            align-items: center;
+            background-color: #30c084;
+            width: 2.1rem;
+            top: 3.2rem;
+            color: #ffffff;
+          }
+        }
+        .auto-group-jldc-iDt {
+          height: 15.3912rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 0rem 1.599rem 0.1rem;
+          width: calc(100% - 0.1rem);
+
+          .health-guide-31G {
+            box-sizing: border-box;
+            width: 15.5rem;
+            height: 100%;
+            cursor: pointer;
+            display: flex;
+            flex-shrink: 0;
+            margin-right: 1.6rem;
+            padding: 4.098rem 4.75rem 3.273rem 4.75rem;
+            align-items: center;
+            flex-direction: column;
+            box-shadow: 0 0.4808rem 0.9615rem rgba(0, 64, 128, 0.0399999991);
+            background-color: #ffffff;
+            border-radius: 1.5385rem;
+
+            .vector-Yyc {
+              margin: 0rem 0rem 2.056rem 0.067rem;
+              width: 4.1667rem;
+              height: 4.1643rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .health-guide-Gei {
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.25rem;
+              font-weight: 400;
+              line-height: 1.3846152672;
+              color: #1e1f20;
+            }
+          }
+          .care-team-JLW {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            background-color: #ffffff;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            width: 15.6rem;
+            cursor: pointer;
+            border-radius: 1.5385rem;
+            padding: 4.453rem 5.717rem 3.273rem 5.692rem;
+            height: 100%;
+            box-shadow: 0 0.4808rem 0.9615rem rgba(0, 64, 128, 0.0399999991);
+
+            .vector-RR8 {
+              flex-shrink: 0;
+              margin-bottom: 2.4599rem;
+              width: 4.1907rem;
+              height: 3.4054rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+            .care-team-mUz {
+              font-size: 1.25rem;
+              line-height: 1.3846152672;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-left: 0.0247rem;
+              text-align: center;
+              flex-shrink: 0;
+              font-weight: 400;
+              color: #1e1f20;
+            }
+          }
+        }
+        .auto-group-pepn-W5C {
+          margin-left: 0.1rem;
+          width: calc(100% - 0.1rem);
+          height: 15.5911rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .family-medical-records-qdG {
+            height: 100%;
+            flex-direction: column;
+            background-color: #ffffff;
+            box-sizing: border-box;
+            padding: 1.919rem 4.6rem 4.886rem 5.05rem;
+            width: 15.5rem;
+            cursor: pointer;
+            align-items: center;
+            display: flex;
+            box-shadow: 0 0.4808rem 0.9615rem rgba(0, 64, 128, 0.0399999991);
+            border-radius: 1.5385rem;
+            margin-right: 1.6rem;
+            flex-shrink: 0;
+
+            .auto-group-jmjw-iwx {
+              flex-shrink: 0;
+              margin: 0rem 0rem 1.154rem 0.05rem;
+              width: calc(100% - 0.05rem);
+              height: 5.8317rem;
+              position: relative;
+
+              .logos-telegram-3US {
+                vertical-align: top;
+                width: 4.8077rem;
+                height: 4.8077rem;
+                position: absolute;
+                left: 0;
+                top: 1.024rem;
+                object-fit: contain;
+              }
+              .counter-ajG {
+                font-weight: 600;
+                justify-content: center;
+                position: absolute;
+                top: 0;
+                align-items: center;
+                background-color: #30c084;
+                width: 2.1rem;
+                white-space: nowrap;
+                border-radius: 13.125rem;
+                font-size: 1.144rem;
+                left: 3.7rem;
+                display: flex;
+                line-height: 1.255;
+                color: #ffffff;
+                font-family: Mulish, 'Source Sans Pro';
+                height: 2.1rem;
+              }
+            }
+            .family-medical-recor-ej8 {
+              text-align: center;
+              font-size: 1.25rem;
+              font-weight: 400;
+              flex-shrink: 0;
+              margin-right: 0.45rem;
+              line-height: 1.3846152672;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .medication-reminder-8uC {
+            padding: 3.395rem 5.722rem 4.886rem 5.712rem;
+            width: 15.6rem;
+            height: 100%;
+            cursor: pointer;
+            align-items: center;
+            display: flex;
+            background-color: #ffffff;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            flex-direction: column;
+            box-shadow: 0 0.4808rem 0.9615rem rgba(0, 64, 128, 0.0399999991);
+            border-radius: 1.5385rem;
+
+            .simple-icons-viber-rKQ {
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 1.3429rem;
+              width: 4.1667rem;
+              height: 4.1667rem;
+            }
+            .medication-reminder-NoY {
+              font-size: 1.25rem;
+              line-height: 1.3846152672;
+              color: #1e1f20;
+              flex-shrink: 0;
+              white-space: nowrap;
+              margin-left: 0.0102rem;
+              text-align: center;
+              font-weight: 400;
+              font-family: Mulish, 'Source Sans Pro';
+            }
+          }
+        }
+      }
+    }
+    .bottom-bar-em4 {
+      width: 100%;
+      height: 8.7rem;
+      cursor: pointer;
+      flex-shrink: 0;
+
+      .icon-otr {
+        background-color: #ffffff;
+        width: 100%;
+        height: 100%;
+        position: relative;
+
+        .tab-y2e {
+          box-sizing: border-box;
+          padding: 0.8rem 1.7rem 0.8rem 1.8rem;
+          width: 7.5rem;
+          height: 8.7rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #ffffff;
+
+          .auto-group-ogdk-HJE {
+            width: 4rem;
+            height: 4rem;
+            object-fit: contain;
+            vertical-align: top;
+            margin-bottom: 3.1rem;
+          }
+        }
+        .tab-Qdk {
+          left: 7.5rem;
+          top: 0;
+          background-color: #ffffff;
+          box-sizing: border-box;
+          padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+          width: 7.5rem;
+          height: 8.7rem;
+          position: absolute;
+
+          .icons-24pt-icsearchnormal-XCa {
+            margin-bottom: 3.1rem;
+            width: 2rem;
+            height: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .tab-dmQ {
+          height: 8.7rem;
+          position: absolute;
+          left: 15rem;
+          top: 0;
+          background-color: #ffffff;
+          box-sizing: border-box;
+          padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+          width: 7.5rem;
+
+          .icons-24pt-ichealthnormal-9ze {
+            margin-bottom: 3.1rem;
+            width: 2rem;
+            height: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .tab-5dQ {
+          background-color: #ffffff;
+          box-sizing: border-box;
+          padding: 1.8rem 2.9rem 1.8rem 3rem;
+          width: 7.5rem;
+          height: 8.7rem;
+          position: absolute;
+          left: 22.5rem;
+          top: 0;
+
+          .icons-24pt-icrecordnormal-1GA {
+            margin-bottom: 3.1rem;
+            width: 1.6rem;
+            height: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .tab-8bg {
+          padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+          width: 7.5rem;
+          height: 8.7rem;
+          position: absolute;
+          left: 30rem;
+          top: 0;
+          background-color: #ffffff;
+          box-sizing: border-box;
+
+          .icons-24pt-icaccountnormal-FgJ {
+            object-fit: contain;
+            vertical-align: top;
+            margin-bottom: 3.1rem;
+            width: 2rem;
+            height: 2rem;
+          }
+        }
+        .home-indicatorblack-z86 {
+          box-sizing: border-box;
+          padding: 2.1rem 12rem 0.8rem 12rem;
+          width: 37.5rem;
+          height: 3.4rem;
+          position: absolute;
+          left: 0;
+          top: 5.3rem;
+          background-color: rgba(255, 255, 255, 0.0001);
+
+          .home-indicator-Jea {
+            width: 100%;
+            height: 0.5rem;
+            background-color: rgba(30, 31, 32, 0.0001);
+            border-radius: 10rem;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,506 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.sign-up-9ci {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+.sign-up-9ci .navigationbar-soc {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.467rem 1.6rem 2.4rem;
+  width: 37.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .status-bar-PX4 {
+  margin: 0rem 0rem 2.2rem 1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .status-bar-PX4 .time-j58 {
+  margin-right: 23.1667rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: -0.028rem;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .status-bar-PX4 .cellular-connection-dgJ {
+  margin: 0rem 0.503rem 0.167rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .status-bar-PX4 .wifi-YoG {
+  margin: 0rem 0.503rem 0.17rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .status-bar-PX4 .battery-Hkr {
+  margin-bottom: 0.1333rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .auto-group-k6ea-EAJ {
+  margin-right: 0.9328rem;
+  width: 32.7rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .navigationbar-soc .auto-group-k6ea-EAJ .licon-NXQ {
+  margin-right: 28.7rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-up-9ci .welcome-to-doctor-pl-hZg {
+  margin: 0rem 0rem 3.2rem 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A {
+  margin: 0rem 0.7rem 0rem 0.8rem;
+  width: calc(100% - 1.5rem);
+  height: 62rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 {
+  width: 32.7rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 4rem;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-UD4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-UD4 .label-pni {
+  margin-bottom: 0.4rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-UD4 .auto-group-kgln-A5t {
+  box-sizing: border-box;
+  padding: 1.1rem 1.2rem 1.2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-UD4 .auto-group-kgln-A5t .detail-HRQ {
+  margin: 0rem 15.8rem 0.1rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-UD4 .auto-group-kgln-A5t .fill-ouY {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-color: #f0f0f0;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r {
+  width: 100%;
+  height: 6.8rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-GHL {
+  margin-right: 0.8rem;
+  width: 14.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-GHL .label-DCa {
+  margin-bottom: 0.4rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-GHL .auto-group-cubx-kiJ {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 1.2rem 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  border-radius: 0.8rem;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-GHL .auto-group-cubx-kiJ .imgflag-HTL {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-GHL .auto-group-cubx-kiJ .detail-pTG {
+  margin-right: 1.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-GHL .auto-group-cubx-kiJ .ricon-kbp {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-gEa {
+  box-sizing: border-box;
+  padding-top: 2rem;
+  width: 32.7rem;
+  height: 100%;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-gEa .auto-group-rwpy-EWz {
+  box-sizing: border-box;
+  padding: 1.1rem 1.2rem 1.2rem 1.6rem;
+  width: 17.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  border-radius: 0.8rem;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-gEa .auto-group-rwpy-EWz .detail-YXg {
+  margin: 0rem 2.4rem 0.1rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .phone-number-X4r .input-gEa .auto-group-rwpy-EWz .fill-GyU {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-color: #f0f0f0;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-BqY {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-BqY .label-9nN {
+  margin-bottom: 0.4rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2307692308;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-BqY .auto-group-ujxc-6Si {
+  box-sizing: border-box;
+  padding: 1.4rem 1.4rem 1.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-BqY .auto-group-ujxc-6Si .password-EYv {
+  margin: 0.2rem 15.7rem 0rem 0rem;
+  width: 12rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .input-BqY .auto-group-ujxc-6Si .icons-24pt-iceyeon-ASa {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .btnsignup-5ZY {
+  width: 100%;
+  height: 5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .login-Z66 .btnsignup-5ZY .btn-qoc {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #30c084 0%, #56e0e0 100%);
+  border-radius: 1.2rem;
+}
+.sign-up-9ci .content-26A .option-Wuk {
+  width: 34.008rem;
+  height: 60.1rem;
+  position: absolute;
+  left: 2.496rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.sign-up-9ci .content-26A .option-Wuk .auto-group-vlwz-FMY {
+  box-sizing: border-box;
+  padding-bottom: 2.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .auto-group-vlwz-FMY .already-have-an-acco-15p {
+  margin: 0rem 14.408rem 40.5rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .auto-group-vlwz-FMY .already-have-an-acco-15p .already-have-an-acco-15p-sub-0 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.sign-up-9ci .content-26A .option-Wuk .auto-group-vlwz-FMY .already-have-an-acco-15p .already-have-an-acco-15p-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.6923076923;
+  color: #30c084;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.sign-up-9ci .content-26A .option-Wuk .auto-group-vlwz-FMY .sign-up-with-social-MSW {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #9393aa;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp {
+  margin-bottom: 3.403rem;
+  width: 100%;
+  height: 5.197rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btnfacebook-2oY {
+  margin-right: 2.496rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.946rem 1.603rem 3.204rem;
+  width: 15.808rem;
+  height: 100%;
+  background-color: #3b5998;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btnfacebook-2oY .icon-M58 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btnfacebook-2oY .icon-M58 .icons-24pt-icfacebook-ucS {
+  margin-right: 0.7639rem;
+  width: 1.9941rem;
+  height: 1.9942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btnfacebook-2oY .icon-M58 .label-3ie {
+  margin-top: 0.0058rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btntwitter-A2a {
+  box-sizing: border-box;
+  padding: 1.6rem 3.846rem 1.597rem 3.3rem;
+  width: 15.704rem;
+  height: 100%;
+  background-color: #53d0ec;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btntwitter-A2a .icon-6B8 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btntwitter-A2a .icon-6B8 .icons-24pt-ictwitter-eyL {
+  margin-right: 1.458rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .group-2-VHp .btntwitter-A2a .icon-6B8 .label-zXQ {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .by-clicking-sign-up-X1Y {
+  margin-left: 0.008rem;
+  max-width: 25.3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sign-up-9ci .content-26A .option-Wuk .by-clicking-sign-up-X1Y .by-clicking-sign-up-X1Y-sub-0 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.sign-up-9ci .content-26A .option-Wuk .by-clicking-sign-up-X1Y .by-clicking-sign-up-X1Y-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #30c084;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.sign-up-9ci .content-26A .option-Wuk .by-clicking-sign-up-X1Y .by-clicking-sign-up-X1Y-sub-2 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #1e1f20;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.sign-up-9ci .content-26A .option-Wuk .by-clicking-sign-up-X1Y .by-clicking-sign-up-X1Y-sub-3 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6923076923;
+  color: #30c084;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.sign-up-9ci .content-26A .home-indicatorblack-1jL {
+  box-sizing: border-box;
+  padding: 2.1rem 12rem 0.8rem 12rem;
+  width: 37.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 58.6rem;
+  background-color: rgba(255, 255, 255, 0.0001);
+}
+.sign-up-9ci .content-26A .home-indicatorblack-1jL .home-indicator-ite {
+  width: 100%;
+  height: 0.5rem;
+  background-color: rgba(30, 31, 32, 0.0001);
+  border-radius: 10rem;
+}

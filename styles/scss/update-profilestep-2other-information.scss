@@ -1,0 +1,476 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.update-profilestep-2other-information-Rot {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+
+  .navigationbar-MSe {
+    flex-shrink: 0;
+    margin-bottom: 1.6rem;
+    width: 37.5rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 1.2rem 1.467rem 1.6rem 2.4rem;
+    background-color: #fafafa;
+
+    .status-bar-fTL {
+      margin: 0rem 0rem 2.2rem 1rem;
+      display: flex;
+      align-items: flex-end;
+      flex-shrink: 0;
+
+      .time-bbt {
+        white-space: nowrap;
+        text-align: center;
+        line-height: 1.2857142857;
+        letter-spacing: -0.028rem;
+        color: #1e1f20;
+        font-family: Mulish, 'Source Sans Pro';
+        margin-right: 23.1667rem;
+        font-size: 1.4rem;
+        font-weight: 700;
+        flex-shrink: 0;
+      }
+      .cellular-connection-Uva {
+        width: 1.7rem;
+        height: 1.0667rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 0.503rem 0.167rem 0rem;
+      }
+      .wifi-bkJ {
+        width: 1.5272rem;
+        height: 1.0966rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 0.503rem 0.17rem 0rem;
+      }
+      .battery-7yY {
+        width: 2.4328rem;
+        height: 1.1333rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-bottom: 0.1333rem;
+      }
+    }
+    .auto-group-hkb4-fVG {
+      margin-right: 0.9328rem;
+      width: 32.7rem;
+      flex-shrink: 0;
+
+      .licon-1Z8 {
+        margin-right: 28.7rem;
+        width: 4rem;
+        height: 4rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+  }
+  .auto-group-bfy8-8dk {
+    width: 38.3rem;
+    height: 74.8rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .content-t78 {
+      height: 68.8rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      width: 37.5rem;
+
+      .auto-group-hmua-Rsk {
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0rem 2.4rem 10.8rem 2.4rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .title-xcn {
+          overflow: hidden;
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin: 0rem 10.9rem 10rem 0rem;
+
+          .step-2-of-3-6DC {
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 1.6rem;
+            font-size: 1.3rem;
+            font-weight: 700;
+            line-height: 1.2307692308;
+            color: #1e1f20;
+          }
+          .others-information-26r {
+            color: #1e1f20;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2.4rem;
+            font-weight: 700;
+            line-height: 1.1666666667;
+          }
+        }
+        .auto-group-ra4w-koY {
+          margin: 0rem 6.7rem 4.2rem 6.8rem;
+          width: calc(100% - 13.5rem);
+          height: 11rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .option-UzS {
+            height: 100%;
+            overflow: hidden;
+            position: relative;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-right: 4.8rem;
+
+            .auto-group-2hzw-Ren {
+              width: 7.2rem;
+              height: 7.2rem;
+              position: relative;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 1.6rem;
+            }
+            .male-yAW {
+              line-height: 1.6923076923;
+              color: #1e1f20;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.3rem;
+              font-weight: 700;
+            }
+          }
+          .option-WgE {
+            overflow: hidden;
+            position: relative;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            height: 100%;
+
+            .auto-group-ve94-Ud4 {
+              margin-bottom: 1.6rem;
+              width: 7.2rem;
+              height: 7.2rem;
+              position: relative;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .female-1st {
+              color: #9393aa;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.3rem;
+              font-weight: 400;
+              line-height: 1.6923076923;
+            }
+          }
+        }
+        .input-Mwk {
+          margin-bottom: 2.4rem;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .label-K7t {
+            color: #1e1f20;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 0.4rem;
+            font-size: 1.3rem;
+            font-weight: 600;
+            line-height: 1.2307692308;
+          }
+          .auto-group-krdy-FnE {
+            border: solid 0.1rem #f0f0f0;
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.1rem 19.8rem 1.2rem 1.2rem;
+            width: 100%;
+            display: flex;
+            align-items: center;
+
+            .icons-24pt-iccalendar-zE2 {
+              margin: 0.1rem 1.2rem 0rem 0rem;
+              width: 2.4rem;
+              height: 2.4rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .detail-tqC {
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.1rem;
+              font-size: 1.5rem;
+              font-weight: 600;
+              line-height: 1.6;
+              color: #1e1f20;
+            }
+          }
+        }
+        .input-PGA {
+          flex-shrink: 0;
+          margin-bottom: 2.4rem;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+
+          .label-LSJ {
+            margin-bottom: 0.4rem;
+            font-size: 1.3rem;
+            font-weight: 600;
+            line-height: 1.2307692308;
+            color: #1e1f20;
+            font-family: Mulish, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .auto-group-aunv-Gqk {
+            box-sizing: border-box;
+            padding: 1.1rem 7.3rem 1.3rem 1.4rem;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            border: solid 0.1rem #f0f0f0;
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+
+            .icons-24pt-icpinmap-Qwx {
+              height: 2rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin: 0.2rem 1.4rem 0rem 0rem;
+              width: 2rem;
+            }
+            .detail-YHU {
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.5rem;
+              font-weight: 600;
+              line-height: 1.6;
+              color: #1e1f20;
+            }
+          }
+        }
+        .btnnext-TQS {
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.3rem 11.1rem 1.3rem 12rem;
+          width: 100%;
+          height: 5rem;
+          cursor: pointer;
+          background: linear-gradient(45deg, #30c084 0%, #56e0e0 100%);
+          border-radius: 1.2rem;
+
+          .icon-azr {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+
+            .label-Lz2 {
+              flex-shrink: 0;
+              margin-right: 0.8rem;
+              font-size: 1.5rem;
+              font-weight: 700;
+              line-height: 1.2;
+              color: #ffffff;
+              font-family: Mulish, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .icons-24pt-icnext-tke {
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 2.4rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+          }
+        }
+      }
+      .home-indicatorblack-QDC {
+        box-sizing: border-box;
+        padding: 2.1rem 12rem 0.8rem 12rem;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.0001);
+        flex-shrink: 0;
+
+        .home-indicator-YaJ {
+          width: 100%;
+          height: 0.5rem;
+          background-color: rgba(30, 31, 32, 0.0001);
+          border-radius: 10rem;
+        }
+      }
+    }
+    .icon-UD4 {
+      top: 66.1rem;
+      background-color: #ffffff;
+      width: 37.5rem;
+      height: 8.7rem;
+      position: absolute;
+      left: 0.8rem;
+
+      .tab-Cer {
+        position: absolute;
+        left: 0;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 0.8rem 1.7rem 0.8rem 1.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+
+        .auto-group-4cbg-vKx {
+          margin-bottom: 3.1rem;
+          width: 4rem;
+          height: 4rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .tab-f2e {
+        position: absolute;
+        left: 7.5rem;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+
+        .icons-24pt-icsearchnormal-BFt {
+          margin-bottom: 3.1rem;
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .tab-79Y {
+        padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+        width: 7.5rem;
+        height: 8.7rem;
+        position: absolute;
+        left: 15rem;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+
+        .icons-24pt-ichealthnormal-Rg2 {
+          margin-bottom: 3.1rem;
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .tab-Lnz {
+        height: 8.7rem;
+        position: absolute;
+        left: 22.5rem;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.9rem 1.8rem 3rem;
+        width: 7.5rem;
+
+        .icons-24pt-icrecordnormal-s2E {
+          object-fit: contain;
+          vertical-align: top;
+          margin-bottom: 3.1rem;
+          width: 1.6rem;
+          height: 2rem;
+        }
+      }
+      .tab-PWN {
+        width: 7.5rem;
+        height: 8.7rem;
+        position: absolute;
+        left: 30rem;
+        top: 0;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 1.8rem 2.7rem 1.8rem 2.8rem;
+
+        .icons-24pt-icaccountnormal-fyg {
+          margin-bottom: 3.1rem;
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .home-indicatorblack-Bh8 {
+        left: 0;
+        top: 5.3rem;
+        background-color: rgba(255, 255, 255, 0.0001);
+        box-sizing: border-box;
+        padding: 2.1rem 12rem 0.8rem 12rem;
+        width: 37.5rem;
+        height: 3.4rem;
+        position: absolute;
+
+        .home-indicator-hQa {
+          width: 100%;
+          height: 0.5rem;
+          background-color: rgba(30, 31, 32, 0.0001);
+          border-radius: 10rem;
+        }
+      }
+    }
+  }
+}
