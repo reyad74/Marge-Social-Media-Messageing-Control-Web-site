@@ -69,7 +69,7 @@ body {
 }
 .login-TY2 .content-CVc .auto-group-v4le-kn2 .login-H9g .input-Rmg {
   margin-bottom: 2.7626rem;
-  width: 100%;
+  width: auto;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -87,7 +87,7 @@ body {
 .login-TY2 .content-CVc .auto-group-v4le-kn2 .login-H9g .input-Rmg .auto-group-ct4n-Jaa {
   box-sizing: border-box;
   padding: 1.1rem 1.408rem 1.3rem 1.6rem;
-  width: 100%;
+  width: auto;
   display: flex;
   align-items: center;
   border: solid 0.1rem #f0f0f0;
@@ -114,7 +114,7 @@ body {
 }
 .login-TY2 .content-CVc .auto-group-v4le-kn2 .login-H9g .input-F8S {
   margin-bottom: 2.7626rem;
-  width: 100%;
+  width: auto;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -156,7 +156,7 @@ body {
 }
 .login-TY2 .content-CVc .auto-group-v4le-kn2 .login-H9g .btn-Jkv {
   margin-bottom: 2.1635rem;
-  width: 100%;
+  width: 250px;
   height: 5.197rem;
   cursor: pointer;
   text-align: center;
@@ -205,7 +205,7 @@ body {
 }
 .login-TY2 .content-CVc .auto-group-v4le-kn2 .option-GbG .group-1-L5L {
   margin-bottom: 6.203rem;
-  width: 100%;
+  width: auto;
   height: 5.197rem;
   display: flex;
   align-items: center;
